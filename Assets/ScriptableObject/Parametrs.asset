@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a96e2ce6c0b070459297b4f5f302f6c, type: 3}
+  m_Name: Parametrs
+  m_EditorClassIdentifier: Assembly-CSharp::Parametrs
+  Asteroid_parametrs:
+  - Asteroid_Type: 0
+    Asteroid_Scale: {x: 1, y: 1, z: 1}
+  - Asteroid_Type: 1
+    Asteroid_Scale: {x: 0.75, y: 0.75, z: 0.75}
+  - Asteroid_Type: 2
+    Asteroid_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  _asteroid_Prefab: {fileID: 3693438313781004166, guid: 2dd24c6e867b3ea428cb3958514e79b5, type: 3}
